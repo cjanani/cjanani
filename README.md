@@ -4,7 +4,7 @@
 </div>  
 
 <br/> 
-### <div align="center">Hi I'm Janani, a part-time student 👨‍💻 and career-returner 🚀 from Sydney, Australia. 🌱 Skills I am honing at the moment include HTML, CSS, JavaScript, React and git. Feel free to connect with me!</div>  
+## <div align="center">Hi I'm Janani, a part-time student 👨‍💻 and career-returner 🚀 from Sydney, Australia. 🌱 Skills I am honing at the moment include HTML, CSS, JavaScript, React and git. Feel free to connect with me!</div>  
   <br/> 
   
 <div align="center">
