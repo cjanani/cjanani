@@ -4,7 +4,14 @@
 </div>  
 
 <br/> 
-<b>  <div align="center"> Hi I'm Janani, a part-time student 👨‍💻 and career-returner 🚀 from Sydney, Australia. 🌱 Skills I am honing at the moment include HTML, CSS, JavaScript, React and git. Feel free to connect with me!</div>  </b>
+<b>  <div align="center"> 👋 Hi, I'm Janani Chakrapani</div>  </b> <br />
+<div align ="center"> 💻 Career Transitioner | Volunteer Developer | Application Support Engineer from Sydney, Australia </div> <br />
+
+<div>I'm passionate about building customer-centric technical solutions, supporting software products, and helping users thrive through intuitive and reliable systems.
+With 8+ years of experience in application and product support, I enjoy diving into logs, resolving incidents, and collaborating across teams to improve software quality.
+Currently, I'm expanding my skills in HTML, CSS, JavaScript, React, and Git as I transition into full-stack development. </div> <br />
+
+<div align ="center">🌱 Lifelong learner | 🤝 Open to collaborations | 📬 Feel free to connect!</div>
   <br/> 
   
 <div align="center">
